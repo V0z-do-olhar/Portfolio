@@ -1,76 +1,66 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+<h1 align="center">
+  Voice of the Look<br/>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+
+### Um sistema para usuários deficientes visuais!
+O desenvolvimento do site foi incialmente desenhado pela ferramenta figma e codificado em react.
+
+![README PART (1)](https://github.com/user-attachments/assets/bcb8f606-fe29-4d8b-8960-865de2c7e814)
 
 <br/>
 
 <center>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+![sistema-adaptável](https://github.com/user-attachments/assets/f8fb192e-7abb-4658-bf86-180e72e1ac85)
+![criado-em-javascript](https://github.com/user-attachments/assets/5bf75138-bbfd-4ba8-8c93-45e7c2481a77)
+![projeto-institucional](https://github.com/user-attachments/assets/e91cbe35-31e8-4ea6-bf45-5b6446678b89)
 
 </center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+## Sobre o Desenvolvimento
 
-## TL;DR
+O portfólio contém informações sobre o projeto do sistema Voice of The Look para Mobile, Smartwatch e Web. <br/>
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+Esse projeto foi criado usando:
 
-## Built With
-
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-This project was built using these technologies.
-
+- Figma
+- Capcut
 - React.js
 - Node.js
 - Express.js
 - CSS3
 - VsCode
 - Vercel
+- Firebase
 
-## Features
+## Descrição do sistema
 
-**📖 Multi-Page Layout**
+**🤖 Integração de IA em todo aplicativo;**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🧑‍🦯 Para Usuários deficientes visuais**
 
-**📱 Fully Responsive**
+**🎨 Estilizado com React-Bootstrap e Css;**
 
-## Getting Started
+**📱 Design responsivo e adaptado;**
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+**🗣️  Comandos por voz guiam o usuário pelo sistema.**
 
-## 🛠 Installation and Setup Instructions
+## Projeto Institucional
+Uninassau Paulista - 2024 <br>
+Professor Dr. Sávio Silva de Almeida <br>
+Disciplina: Front-end Frameworks
 
-1. Installation: `npm install`
+## Equipe 
 
-2. In the project directory, you can run: `npm start`
+- Emily Queiroz;
+- Fábio Henrique;
+- Gabriel Marcos;
+- Geovanna Pacífico;
+- Guilherme Vieira;
+- Henrico Bazante;
+- João Lucas; 
+- João Guilherme;
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+### Deixe seu feedback!
 
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+Sua estrela ⭐ pode ajudar o nosso projeto! Participe disso com a Voz do Olhar.
