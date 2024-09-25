@@ -441,6 +441,11 @@ button:focus {
 .blockquote-footer {
   color: #a588c0 !important;
 }
+.footer p{
+  color: white !important;
+  margin-top: 1em;
+  margin: 1em;
+}
 /* --------- */
 /* Projects */
 /* --------- */

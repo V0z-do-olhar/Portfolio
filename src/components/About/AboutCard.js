@@ -8,33 +8,32 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            Bem-vindo ao Voice of the Look, um espaço criado para transformar a maneira como deficientes visuais interagem com o mundo digital.
+            <span className="purple"> Pernambuco, Brasil.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            Nosso objetivo é proporcionar uma experiência acessível e enriquecedora
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            guiando os usuários por meio de tecnologia de ponta que utiliza comandos de voz intuitivos.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Aqui está alguns recursos que você pode encontrar na nossa plataforma:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Guia do usuário por voz
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Mapa Adaptado
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Identificação se imagens e locais
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Ajudando o mundo com a tecnologia!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+        
         </blockquote>
       </Card.Body>
     </Card>
