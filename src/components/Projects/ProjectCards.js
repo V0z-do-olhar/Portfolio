@@ -1,8 +1,8 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
-import { CgWebsite } from "react-icons/cg";
 import { BsGithub } from "react-icons/bs";
+import { FaInstagram } from 'react-icons/fa'; 
 
 function ProjectCards(props) {
   return (
@@ -13,15 +13,13 @@ function ProjectCards(props) {
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
+
         <Button variant="primary" href={props.ghLink} target="_blank">
           <BsGithub /> &nbsp;
           {props.isBlog ? "Blog" : "GitHub"}
         </Button>
-        {"\n"}
-        {"\n"}
 
-        {/* If the component contains Demo link and if it's not a Blog then, it will render the below component  */}
-
+        {/* Condicional para o botão Demo */}
         {!props.isBlog && props.demoLink && (
           <Button
             variant="primary"
@@ -29,12 +27,24 @@ function ProjectCards(props) {
             target="_blank"
             style={{ marginLeft: "10px" }}
           >
-            <CgWebsite /> &nbsp;
-            {"Demo"}
+            <FaInstagram /> &nbsp; Demo
+          </Button>
+        )}
+
+        {/* Condicional para o botão Instagram */}
+        {props.instagramLink && (
+          <Button
+            variant="primary"
+            href={props.instagramLink}
+            target="_blank"
+            style={{ marginLeft: "10px" }}
+          >
+            <FaInstagram /> &nbsp; Instagram
           </Button>
         )}
       </Card.Body>
     </Card>
   );
 }
+
 export default ProjectCards;

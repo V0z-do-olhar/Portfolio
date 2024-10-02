@@ -475,7 +475,7 @@ button:focus {
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
-  box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561) !important;
+  box-shadow: 0 4px 4px 5px rgb(214, 214, 214, 0.65) !important;
 }
 
 .blog-card {
@@ -506,7 +506,7 @@ button:focus {
 .blog-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
-  box-shadow: 0 3px 3px 5px rgba(155, 88, 173, 0.65) !important;
+  box-shadow: 0 3px 3px 5px rgb(155, 88, 173, 0.65) !important;
 }
 
 .card-img-top {
@@ -529,8 +529,8 @@ button:focus {
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #6d20c5d7 !important;
-  border-color: #6d20c5d7 !important;
+  background-color: #e6e6e6d7 !important;
+  border-color: #575757d7 !important;
 }
 .btn:focus {
   outline: none !important;
