@@ -1,12 +1,9 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
-import Github from "./Github";
-import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
-
+import Smartphone from "../..//Assets/smartphone-removebg.png";
 function About() {
   return (
     <Container fluid className="about-section">
@@ -31,7 +28,7 @@ function About() {
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           >
-            <img src={laptopImg} alt="about" className="img-fluid" />
+            <img src={Smartphone} alt="about" className="img-fluid" />
           </Col>
         </Row>
        

@@ -7,9 +7,11 @@ import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
 import henricoperson from "../../Assets/Projects/henrico.png";
-
+import emilyperson from "../../Assets/Projects/emily.png";
+import geovanaperson from "../../Assets/Projects/geo.png";
+import depayperson from "../../Assets/Projects/depay.png";
+import vieraperson from "../../Assets/Projects/viera.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -35,7 +37,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={emilyperson}
               isBlog={false}
               title="Emily Queiroz"
               description="Uma das responsaveis por criar a A.I Noah e os códigos para a aplicação web que serviu para o desenvolvimento do site"
@@ -46,12 +48,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={geovanaperson}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor built with React.js. Online Editor that supports HTML, CSS, and JS code with instant view of the website."
+              title="Geovana Francisca"
+              description="Auxílio na criação do Noah e nos códigos para front-end para o desenvolvimento do web site da plataforma."
               ghLink="https://github.com/soumyajit4419/Editor.io"
-              instagramLink="https://www.instagram.com/yourInstagramLink/"
+              instagramLink="https://www.instagram.com/geo_fpr/"
             />
           </Col>
 
@@ -59,43 +61,32 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained an image classifier model using 'PyTorch' framework."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              instagramLink="https://www.instagram.com/yourInstagramLink/"
+              title="João Lucas"
+              description="Responsável pelo Design ui/ux e graphic design completo (social media e identidade visual), além de trabalhar no front-end do aplicativo, na construção de toda base do projeto junto com o grupo, pesquisas e ajuda documentação."
+              instagramLink="https://www.instagram.com/joaollucascn/"
+              ghLink="https://github.com/joaollucascn/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={depayperson}
               isBlog={false}
-              title="AI For Social Good"
-              description="Using 'Natural Language Processing' for the detection of suicide-related posts."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              instagramLink="https://www.instagram.com/yourInstagramLink/"
+              title=""
+              description="Um dos responsáveis pela realização das pesquisas do projeto"
+              ghLink="https://github.com/depas7/"
+              instagramLink="https://www.instagram.com/jguix7/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={vieraperson}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              instagramLink="https://www.instagram.com/yourInstagramLink/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={chatify}
-              isBlog={false}
-              title="Chatify"
-              description="Chat application built using React."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              instagramLink="https://www.instagram.com/yourInstagramLink/"
+              title="Guilherme Vieira"
+              description=" Um dos responsáveis pela realização das pesquisas"
+              ghLink="https://github.com/GuiVieira80/"
+              instagramLink="https://www.instagram.com/gui_vieirazn/"
             />
           </Col>
         </Row>
