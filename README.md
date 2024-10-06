@@ -5,7 +5,7 @@
 ### Um sistema para usuários deficientes visuais!
 O desenvolvimento do site foi incialmente desenhado pela ferramenta figma e codificado em react.
 
-![README PART (1)](https://github.com/user-attachments/assets/bcb8f606-fe29-4d8b-8960-865de2c7e814)
+![README PART (2)](https://github.com/user-attachments/assets/ac0cde83-6c5c-44b3-af5e-5f2fcb49db17)
 
 <br/>
 
