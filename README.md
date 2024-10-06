@@ -45,22 +45,18 @@ Esse projeto foi criado usando:
 
 **🗣️  Comandos por voz guiam o usuário pelo sistema.**
 
-## Projeto Institucional
-Uninassau Paulista - 2024 <br>
-Professor Dr. Sávio Silva de Almeida <br>
-Disciplina: Front-end Frameworks
-
-## Equipe 
+## Desenvolvedores
 
 - Emily Queiroz;
-- Fábio Henrique;
-- Gabriel Marcos;
 - Geovanna Pacífico;
 - Guilherme Vieira;
 - Henrico Bazante;
 - João Lucas; 
 - João Guilherme;
 
-### Deixe seu feedback!
-
-Sua estrela ⭐ pode ajudar o nosso projeto! Participe disso com a Voz do Olhar.
+## Projeto Institucional
+Uninassau Paulista - 2024 - ADS <br>
+Orientador: Professor Dr. Sávio Silva de Almeida. <br>
+Projeto das disciplinas: <br> 
+- Front-end Frameworks (2° Período)
+- Design centrado na experiência do usuário (1° Período)
