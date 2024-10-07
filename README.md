@@ -5,7 +5,7 @@
 ### Um sistema para usuários deficientes visuais!
 O desenvolvimento do site foi incialmente desenhado pela ferramenta figma e codificado em react.
 
-![README PART (1)](https://github.com/user-attachments/assets/bcb8f606-fe29-4d8b-8960-865de2c7e814)
+![README PART (2)](https://github.com/user-attachments/assets/ac0cde83-6c5c-44b3-af5e-5f2fcb49db17)
 
 <br/>
 
@@ -45,22 +45,18 @@ Esse projeto foi criado usando:
 
 **🗣️  Comandos por voz guiam o usuário pelo sistema.**
 
-## Projeto Institucional
-Uninassau Paulista - 2024 <br>
-Professor Dr. Sávio Silva de Almeida <br>
-Disciplina: Front-end Frameworks
-
-## Equipe 
+## Desenvolvedores
 
 - Emily Queiroz;
-- Fábio Henrique;
-- Gabriel Marcos;
 - Geovanna Pacífico;
 - Guilherme Vieira;
 - Henrico Bazante;
 - João Lucas; 
 - João Guilherme;
 
-### Deixe seu feedback!
-
-Sua estrela ⭐ pode ajudar o nosso projeto! Participe disso com a Voz do Olhar.
+## Projeto Institucional
+Uninassau Paulista - 2024 - ADS <br>
+Orientador: Professor Dr. Sávio Silva de Almeida. <br>
+Projeto das disciplinas: <br> 
+- Front-end Frameworks (2° Período)
+- Design centrado na experiência do usuário (1° Período)
